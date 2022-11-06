@@ -122,5 +122,17 @@ main .card {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+    padding: .5rem;
   }
+}
+
+footer {
+  max-width: 800px;
+  margin: 4rem auto .825rem;
+  text-align: center;
+}
+
+footer p {
+  font-size: 1rem;
+  color: #fff;
 }
